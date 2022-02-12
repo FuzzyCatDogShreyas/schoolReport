@@ -1,0 +1,30 @@
+body {
+    background-color: orangered;
+}
+p {
+    text-align: center;
+    padding: 1rem;
+}
+h2 {
+    text-align: center;
+}
+ul {
+    text-align: center;
+    list-style-type:none;
+}
+img {
+    margin-top: 0px;
+    margin-left: 45%;
+}
+.container {
+    background-color: white;
+}
+.container2 {
+    background-color: lightblue;
+}
+.containerhead1 {
+    background-color: lightgreen;
+}
+.containerhead2 {
+    background-color: lightpink;
+}
